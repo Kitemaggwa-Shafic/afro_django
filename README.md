@@ -6,4 +6,4 @@ This project is a simple DTL demostrating how to use its 4 major aspects in pyth
  
 ## Contributing
 
-This is a demo class DTL project
+This is a Refactory Python Cohort demo class DTL project
